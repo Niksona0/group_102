@@ -20,4 +20,4 @@ if 15<2:
 
 if 2==2: #equal
       print("""lorem ipsum dolor
-      sit amet""")
+      sit amet.""")
